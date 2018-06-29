@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="the_tip_message">The tip message</string>
+    <string name="dialog_message">这是我想创建的对话框</string>
+    <string name="dialog_tittle">警告对话框</string>
     <string name="button_caption">我的按钮</string>
     <string name="my_first_toast">我的第一个toast</string>
     <string name="warnning_tittle">警告</string>
